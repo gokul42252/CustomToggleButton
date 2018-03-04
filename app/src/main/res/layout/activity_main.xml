@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cretlabs.customtogglebutton.MainActivity">
+
+    <com.cretlabs.customtogglebutton.CustomToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:drawablePadding="12dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_button_selector"
+        android:button="@color/trans"
+        android:textOff="on "
+        android:textOn="off"
+        android:textColor="@color/white"
+        app:ct_draw_right="@drawable/ic_down_24dp"
+        app:ct_draw_bottom="@drawable/ic_down_24dp"
+        app:ct_draw_left="@drawable/ic_down_24dp"
+        app:ct_draw_top="@drawable/ic_down_24dp"
+        app:ct_fontName="@string/font_steel_works"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

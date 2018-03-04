@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="CustomEditText">-->
+        <!--<attr name="tv_drawable_left" format="reference" />-->
+        <!--<attr name="tv_drawable_right" format="reference" />-->
+        <!--<attr name="tv_drawable_top" format="reference" />-->
+        <!--<attr name="tv_drawable_bottom" format="reference" />-->
+        <!--<attr name="tv_drawable_background" format="reference" />-->
+        <!--<attr name="tv_drawable_btn" format="reference" />-->
+    <!--</declare-styleable>-->
+    <!--<declare-styleable name="CustomButton">-->
+        <!--<attr name="custom_drawable_left" format="reference" />-->
+        <!--<attr name="custom_drawable_right" format="reference" />-->
+        <!--<attr name="custom_drawable_top" format="reference" />-->
+        <!--<attr name="custom_drawable_bottom" format="reference" />-->
+        <!--<attr name="custom_drawable_background" format="reference" />-->
+        <!--<attr name="custom_drawable_btn" format="reference" />-->
+    <!--</declare-styleable>-->
+    <!--<declare-styleable name="CustomSeekBar">-->
+        <!--<attr name="custom_seek_thump" format="reference" />-->
+    <!--</declare-styleable>-->
+
+    <!--<declare-styleable name="CustomTextView">-->
+        <!--<attr name="fontName" format="string" />-->
+        <!--<attr name="drawable_left" format="reference" />-->
+        <!--<attr name="drawable_right" format="reference" />-->
+        <!--<attr name="drawable_top" format="reference" />-->
+        <!--<attr name="drawable_bottom" format="reference" />-->
+        <!--<attr name="drawable_background" format="reference" />-->
+        <!--<attr name="drawable_btn" format="reference" />-->
+    <!--</declare-styleable>-->
+
+    <declare-styleable name="CustomToggleButton">
+        <attr name="ct_fontName" format="string" />
+        <attr name="ct_draw_left" format="reference" />
+        <attr name="ct_draw_right" format="reference" />
+        <attr name="ct_draw_top" format="reference" />
+        <attr name="ct_draw_bottom" format="reference" />
+        <attr name="ct_draw_background" format="reference" />
+        <attr name="ct_draw_btn" format="reference" />
+    </declare-styleable>
+    <!--<declare-styleable name="CustomTimePicker">-->
+        <!--<attr name="ctv_fontName" format="string" />-->
+        <!--<attr name="cnp_drawable_right" format="reference" />-->
+        <!--<attr name="cnp_drawable_top" format="reference" />-->
+        <!--<attr name="cnp_drawable_bottom" format="reference" />-->
+        <!--<attr name="cnp_drawable_background" format="reference" />-->
+        <!--<attr name="cnp_drawable_btn" format="reference" />-->
+    <!--</declare-styleable>/-->
+</resources>
